@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/Robbie-Lens/static/css/main.e764fb61.css",
+    "main.js": "/Robbie-Lens/static/js/main.ef0abc0e.js",
+    "static/media/portrait6.jpg": "/Robbie-Lens/static/media/portrait6.327b0401817b6f81320d.jpg",
+    "static/media/portrait3.jpg": "/Robbie-Lens/static/media/portrait3.db9dd8071a025b42dbaa.jpg",
+    "static/media/portrait1.jpg": "/Robbie-Lens/static/media/portrait1.8882071f2c58ab6bda07.jpg",
+    "static/media/paysage9.jpg": "/Robbie-Lens/static/media/paysage9.427b5e39654b5d9bea25.jpg",
+    "static/media/portrait4.jpg": "/Robbie-Lens/static/media/portrait4.79a28d48a6128546469b.jpg",
+    "static/media/portrait5.jpg": "/Robbie-Lens/static/media/portrait5.fac1b38fffa3b8c3338d.jpg",
+    "static/media/paysage2.jpg": "/Robbie-Lens/static/media/paysage2.3129e7e9d6c8a282267b.jpg",
+    "static/media/paysage8.jpg": "/Robbie-Lens/static/media/paysage8.dbe58e0c8ac7aa8986eb.jpg",
+    "static/media/portrait2.jpg": "/Robbie-Lens/static/media/portrait2.22954a8fcf4129a4495b.jpg",
+    "static/media/paysage7.jpg": "/Robbie-Lens/static/media/paysage7.37da14d6b02a11939b7b.jpg",
+    "static/media/paysage1.jpg": "/Robbie-Lens/static/media/paysage1.4d9b95a2193e4197093f.jpg",
+    "static/media/paysage5.jpg": "/Robbie-Lens/static/media/paysage5.9db6d11376cf07cb6714.jpg",
+    "static/media/paysage6.jpg": "/Robbie-Lens/static/media/paysage6.a045ed2340e9a13b6824.jpg",
+    "static/media/robbie-lens.png": "/Robbie-Lens/static/media/robbie-lens.6c19adf7db578d804c24.png",
+    "static/media/paysage3.jpg": "/Robbie-Lens/static/media/paysage3.ff46f10bf23807d29eab.jpg",
+    "static/media/element-2.png": "/Robbie-Lens/static/media/element-2.d331f70a3b88a9d9687f.png",
+    "static/media/paysage4.jpg": "/Robbie-Lens/static/media/paysage4.f57b5f473f773d6fd7ac.jpg",
+    "static/media/element-1.png": "/Robbie-Lens/static/media/element-1.d9a25cd00344f06c4ab1.png",
+    "static/media/element-3.png": "/Robbie-Lens/static/media/element-3.be9264df576a80c36e1e.png",
+    "static/media/element-4.png": "/Robbie-Lens/static/media/element-4.ad26227513c0aeaabb53.png",
+    "static/media/element-6.png": "/Robbie-Lens/static/media/element-6.a7eef21afacd7d1fc620.png",
+    "static/media/element-5.png": "/Robbie-Lens/static/media/element-5.525f7b71262dd02a29e4.png",
+    "index.html": "/Robbie-Lens/index.html",
+    "main.e764fb61.css.map": "/Robbie-Lens/static/css/main.e764fb61.css.map",
+    "main.ef0abc0e.js.map": "/Robbie-Lens/static/js/main.ef0abc0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e764fb61.css",
+    "static/js/main.ef0abc0e.js"
+  ]
+}
